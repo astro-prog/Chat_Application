@@ -1,4 +1,4 @@
-# AI Chat Application
+# Chat Application
 
 A premium, full-stack chatting application with AI integration featuring a modern, high-end UI/UX design. Built with React, TypeScript, and Tailwind CSS for a production-ready messaging experience.
 
